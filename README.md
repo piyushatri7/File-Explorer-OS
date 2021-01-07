@@ -1,1 +1,1 @@
-# Linus based file explorer
+# Linux based file explorer
