@@ -1,2 +1,2 @@
 # Linux based file explorer
- - Fully functional file fxplorer fpplication, albeit with a restricted feature set.
+ - Fully functional file explorer application, albeit with a restricted feature set.
